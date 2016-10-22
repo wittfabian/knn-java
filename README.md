@@ -1,4 +1,4 @@
-# k-Nearest-Neighbor-Algorithm
+# Programming assignment k-Nearest-Neighbor-Algorithm
 A program that implements a k-Nearest-Neighbor-Algorithm, whereby k is a parameter to be specified at runtime.
 
 # Run the program
